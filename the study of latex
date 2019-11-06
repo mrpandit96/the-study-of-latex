@@ -1,0 +1,71 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+\title{The Study Of Latex}
+\maketitle
+\begin{center}
+	\author{Himani sharma}\\
+	Bhaipur, Greater Noida
+\end{center}
+\section{Introduction}
+\subsection{what is LATEX?........}
+\subsection{Before you start.....}
+\section{Document structure}
+\subsection{Essentials.....}
+\subsection{Troubleshooting.....}
+\subsection{Creating a title...}
+\subsection{sections.....}
+\subsection{Labelling.......}
+\subsection{Table of contents.....}
+\section{Tables}
+\subsection{Practical.....}
+\section{Equation}
+\subsection{Inserting Equations......}
+\subsection{Mathematical Symbols.........}
+\subsection{Practical.............} 
+\newpage
+\huge Chapter 1 \\
+\underline{Introduction} \newline
+\normalsize 1.1 What is LATEX?
+LATEX (pronounced lay-tek ) is a document preparation system for producing
+professional-looking documents, it is not a word processor. It is particularly
+suited to producing long, structured documents, and is very good at typesetting
+equations. It is available as free software for most operating systems.
+LATEX is based on TEX, a typesetting system designed by Donald Knuth in
+1978 for high quality digital typesetting. TEX is a low-level language that
+computers can work with, but most people would nd dicult to use; so
+LATEX has been developed to make it easier. The current version of LATEX is
+LATEX2e.
+If you are used to producing documents with Microsoft Word, you will nd
+that LATEX is a very dierent style of working. Microsoft Word is `What You
+See Is What You Get' (WYSIWYG), this means that you see how the nal
+document will look as you are typing. When working in this way you will
+probably make changes to the document's appearance (such as line spacing,
+headings, page breaks) as you type. With LATEX you do not see how the nal
+document will look while you are typing it | this allows you to concentrate
+on the content rather than appearance.
+A LATEX document is a plain text le with a .tex le extension. It can be typed
+in a simple text editor such as Notepad, but most people nd it is easier to
+use a dedicated LATEX editor. As you type you mark the document structure
+(title, chapters, subheadings, lists etc.) with tags. When the document
+is nished you compile it | this means converting it into another format.
+Several dierent output formats are available, but probably the most useful
+1
+
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                                             
+                 
